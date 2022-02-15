@@ -1,0 +1,2 @@
+# Car_Purchasing_Linear_Regression_Model
+This project contains data on Car Purchasing which uses several parameters to be built into a model to predict the total amount that customers are willing to pay for the new car. This information will be used by the company to do the targeted marketing based on the customer profile. Datasets are from: https://www.kaggle.com/dev0914sharma/car-purchasing-model

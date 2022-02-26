@@ -3,7 +3,7 @@ This project contains data on Car Purchasing which uses several parameters to be
 
 
 ## About this file
-This File contain the information of the various people with the following detail which can help us to find out the better prediction and also help us to train our model to predict the correct value and get a good F1 Score.
+This File contain the information of the various people with the following detail which can help us to find out the better prediction and also help us to train our model to predict the correct value and get a smallest MAE and MSE score.
 
 ## Dataset's Description
 1.	Customer Name : name of customers
